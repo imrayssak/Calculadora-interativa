@@ -13,7 +13,7 @@ void main() {
             case 1: {
                 System.out.print("Digite o primeiro numero: ");
                 num1 = sc.nextDouble();
-
+                git status
                 System.out.print("Digite o segundo numero: ");
                 num2 = sc.nextDouble();
 
